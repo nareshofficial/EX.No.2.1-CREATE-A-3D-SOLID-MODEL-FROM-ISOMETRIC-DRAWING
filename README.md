@@ -11,7 +11,6 @@ To create a 3Dmodel from the given isometric drawing using fusion 360 tool.
 4. 2.5 Mbps or faster download; 500 Kbps or faster upload 
 
 ## PROCEDURE
-
  ### STEP-1:  Start the sketch command
 
    Select Sketch > Create Sketch.
